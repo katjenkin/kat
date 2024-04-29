@@ -4,21 +4,21 @@
       "@context": "https://schema.org",
       "@type": "CreativeWork",
       "id": "1",
-      "name": "Soccer ball",
+      "name": "Crochet",
       "description": "Item for football playing"
     },
     {
       "@context": "https://schema.org",
       "@type": "CreativeWork",
       "id": "2",
-      "name": "Skateboard",
+      "name": "Book",
       "description": "Item for creative playing"
     },
     {
       "@context": "https://schema.org",
       "@type": "CreativeWork",
       "id": "3",
-      "name": "Laptop",
+      "name": "Playstation",
       "description": "Item for innovating and building"
     }
   ],
@@ -45,7 +45,7 @@
     "@type": "Collection",
     "name": "Kat's API",
     "creator": "katjenkin",
-    "about": "A collection of items or things or stuff",
+    "about": "A collection of hobbies",
     "url": "https://www.katjenkin.info"
   }
 }
