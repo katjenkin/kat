@@ -7,6 +7,7 @@
       "name": "Soccer ball",
       "description": "Item for football playing"
     },
+    {
       "@context": "https://schema.org",
       "@type": "CreativeWork",
       "id": "2",
@@ -42,9 +43,9 @@
   "collection": {
     "@context": "https://schema.org/",
     "@type": "Collection",
-    "name": "Kat's API",
-    "creator": "katjenkin",
+    "name": "jasonclark's API",
+    "creator": "jasonclark",
     "about": "A collection of items or things or stuff",
-    "url": "https://www.katjenkin.info"
+    "url": "https://www.jasonclark.info"
   }
 }
