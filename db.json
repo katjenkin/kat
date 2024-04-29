@@ -43,9 +43,9 @@
   "collection": {
     "@context": "https://schema.org/",
     "@type": "Collection",
-    "name": "jasonclark's API",
-    "creator": "jasonclark",
+    "name": "Kat's API",
+    "creator": "katjenkin",
     "about": "A collection of items or things or stuff",
-    "url": "https://www.jasonclark.info"
+    "url": "https://www.katjenkin.info"
   }
 }
